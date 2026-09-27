@@ -1,0 +1,6 @@
+{
+  "name": "BioSeptic Twin — ESP32 Smart Septic Tank 3D Simulation",
+  "description": "Interactive 3D digital twin & engineering simulation for ESP32 septic tank monitoring, sludge growth prediction, and gas hazard interlock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
